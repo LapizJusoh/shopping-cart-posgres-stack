@@ -1,0 +1,23 @@
+{
+  "name": "shopping-cart-posgres-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LapizJusoh/shopping-cart-posgres-stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LapizJusoh/shopping-cart-posgres-stack/issues"
+  },
+  "homepage": "https://github.com/LapizJusoh/shopping-cart-posgres-stack#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
